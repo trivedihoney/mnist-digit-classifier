@@ -7,6 +7,8 @@ Running this code will create a model using PyTorch that can detect hand-written
 - `pytorch_modules/`: Helper functions to make the codebase modular.
 - `scripts/`: Python scripts for models and model training.
 - `models/`: Output path for trained models.
+- `scripts/models`: Path for `nn.Module` classes that create the model.
+- `scripts/train_mnist.py`: Running this python file trains the model.
 
 ## Setup Instructions
 
